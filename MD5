@@ -1,0 +1,9 @@
+48b879624e6e9810e15eec089a420179 *DESCRIPTION
+aaf72fdbb587cab7381ada91bcc1cbbd *NAMESPACE
+e766206245fd1dbb1a4b310b0ff5e695 *R/adjrr.R
+e3131d770e3d9e3d3af3560f76b5da66 *data/trial_data.rda
+70131073c45fbf87b52bc4c25455ed49 *man/confint.margin.Rd
+bf35a9b8d606d50fa86e1efbb122f2ac *man/margin.Rd
+785ec29b70708f59e00b1e7844408f44 *man/print.margin.Rd
+7d995cfdfb11b71c893c297c49105e1b *man/summary.margin.Rd
+310cb0fe3958ff7246e885416cdaf02e *man/trial_data.Rd
